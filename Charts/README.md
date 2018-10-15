@@ -1,2 +1,3 @@
-# wlcg_lightweight_site_specification
-Head over to the [Wiki](https://github.com/WLCG-Lightweight-Sites/wlcg_lightweight_site_specification/wiki)
+# Site specification charts
+
+These charts were made using Draw.io app <https://www.draw.io/>
