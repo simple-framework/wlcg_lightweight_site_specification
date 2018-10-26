@@ -7,7 +7,7 @@
 <img src="specification_v2.png">
 
 ---
-<img src="specification_v2.png">
+<img src="Implementation_scenario_v2.png">
 
 ---
 <img src="Implementation.png">
