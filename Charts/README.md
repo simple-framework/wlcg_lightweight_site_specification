@@ -10,6 +10,15 @@
 <img src="Implementation_scenario_v2.png">
 
 ---
+<img src="Simple-Schema.png">
+
+---
+<img src="Compiler.png">
+
+---
+<img src="repo_structure.png">
+
+---
 <img src="Implementation.png">
 
 ---
