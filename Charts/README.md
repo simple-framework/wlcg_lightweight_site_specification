@@ -1,5 +1,14 @@
 # Site specification charts
 
+
+<img src="Simple-Schema.png">
+
+---
+<img src="specification_v2.png">
+
+---
+<img src="specification_v2.png">
+
 ---
 <img src="Implementation.png">
 
