@@ -13,6 +13,9 @@
 <img src="Simple-Schema.png">
 
 ---
+<img src="SIMPLE-Stages.png">
+
+---
 <img src="Compiler.png">
 
 ---
